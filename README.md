@@ -1,15 +1,17 @@
 #7-10-26-(vscode to github)
 <br>
-create a repo using command inside any folder folder (mkdir localrepo)
+(mkdir localrepo) create a repo using command inside any folder folder 
 <br>
-get into it using (cd localrepo)
+(cd localrepo) get into it using 
 <br>
-initialize empty git repository (git init) for getting .git file in it which is a tracker
+(git init) initialize empty git repository for getting .git file in it which is a tracker
 <br>
 adding index.html (<p>any sentence</p>)
 <br>
 git add . -> git commit -m "updating the files" -> git status
 <br>
-change branch from master to main (git branch -M main)
+(git branch -M main) change branch from master to main 
 <br>
-check branch name (git branch)
+(git branch) check branch name 
+<br>
+git remote add origin paste (create same named repo on github and paste the link here)

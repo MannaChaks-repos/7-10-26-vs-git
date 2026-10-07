@@ -15,3 +15,5 @@ git add . -> git commit -m "updating the files" -> git status
 (git branch) check branch name 
 <br>
 git remote add origin paste (create same named repo on github and paste the link here)
+<br>
+git push -u origin main  (push the update to github)

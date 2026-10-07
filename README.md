@@ -9,3 +9,7 @@ initialize empty git repository (git init) for getting .git file in it which is 
 adding index.html (<p>any sentence</p>)
 <br>
 git add . -> git commit -m "updating the files" -> git status
+<br>
+change branch from master to main (git branch -M main)
+<br>
+check branch name (git branch)
